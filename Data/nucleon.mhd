@@ -1,0 +1,10 @@
+ObjectType = Image
+NDims = 3
+DimSize = 41 41 41
+ElementType = MET_UCHAR
+Offset = -99.9999923706 -99.9999923706 -99.9999923706
+ElementSpacing = 0.048780489713 0.048780489713 0.048780489713
+ElementByteOrderMSB = False
+ElementNumberOfChannels = 1
+HeaderSize = 0
+ElementDataFile = nucleon.raw
